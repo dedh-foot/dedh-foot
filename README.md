@@ -15,13 +15,8 @@ I enjoy turning concepts into practical projects 💻<br>I’m always happy to c
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=dedh-foot&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
 ##### ✍️ Random Tech Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dedh-foot&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
