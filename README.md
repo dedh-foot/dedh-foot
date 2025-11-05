@@ -8,6 +8,7 @@ A Cybersecurity Student and a Python enthusiast 🐍<br>
 I enjoy turning concepts into practical projects 💻<br>I’m always happy to connect with like-minded people and exchange ideas ✨.<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khooshi-tembhurne) 
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-%23FFFFFF.svg?logo=tryhackme&logoColor=A20606)](https://tryhackme.com/p/dedhfoot) 
 
 ### 💻 Tech Stack:
 ###### Languages: 
