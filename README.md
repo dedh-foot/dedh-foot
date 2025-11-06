@@ -17,10 +17,10 @@ I enjoy turning concepts into practical projects 💻<br>I’m always happy to c
 ###### Tools: 
 ![Jira](https://img.shields.io/badge/jira-%23000000.svg?style=for-the-badge&logo=jira&logoColor=0052CC) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/burpsuite-%23000000.svg?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23000000.svg?style=for-the-badge&logo=burpsuite&logoColor=FF6633)
 ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) 
 ![Wireshark](https://img.shields.io/badge/wireshark-%23000000.svg?style=for-the-badge&logo=wireshark&logoColor=1679A7)
-![Kali Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=557C94)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23000000.svg?style=for-the-badge&logo=kalilinux&logoColor=557C94)
 ![Nmap](https://img.shields.io/badge/nmap-%23000000.svg?style=for-the-badge&logo=nmap&logoColor=DDF2F7)
 
 ##### ✍️ Random Tech Quote
